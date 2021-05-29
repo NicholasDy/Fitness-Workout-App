@@ -6,10 +6,10 @@
 The design and function of the APP is to allow the user to track their exercises throughout their time at the gym or home. Any workout can be created with a simple buttton and exercises for both resistence and cardio can be added. If the user wishes to see the total output they had throughout the last 7 days.
 
 ## Screenshot
-![picture](/assets/screenshot.PNG)
+![picture](/public/assets/screenshot.PNG)
 
 ## Heroku 
-
+https://secret-forest-57902.herokuapp.com/
 
 ## Code Style; HTML, CSSJavascript/Node.js
 
