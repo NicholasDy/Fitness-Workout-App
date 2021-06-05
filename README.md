@@ -11,7 +11,7 @@ The design and function of the APP is to allow the user to track their exercises
 ## Heroku 
 https://secret-forest-57902.herokuapp.com/
 
-## Code Style; HTML, CSSJavascript/Node.js
+## Code Style; HTML, CSS &Javascript/Node.js
 
 ## Credit- 
 To the Columbia bootcamp team. Editor Nick Dyke 
